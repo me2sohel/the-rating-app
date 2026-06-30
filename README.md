@@ -1,13 +1,10 @@
 # The Rating App
 
 🌍 A global trust platform for verified business ratings and reviews.
-
 ## Vision
-
 To help people discover trustworthy businesses through genuine, verified experiences.
 
 ## Mission
-
 Build the world's most trusted business review platform where only real visitors can leave verified ratings.
 
 ## Tech Stack
